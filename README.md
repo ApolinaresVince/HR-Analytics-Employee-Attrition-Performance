@@ -17,4 +17,5 @@ The Dataset consist of 5 tables consisting of employee, performance rating, educ
 
 ## Visualization
 
-![Uploading image.png…]()
+<img width="1197" height="667" alt="image" src="https://github.com/user-attachments/assets/eda1fdc5-9ebc-4341-bace-a6adec3ddae1" />
+
